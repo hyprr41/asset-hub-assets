@@ -9,15 +9,6 @@
   ],
   "assets": [
     {
-      "id": "amvlrobe1g9r",
-      "name": "Eerie Noise 2",
-      "category": "SFX",
-      "type": "audio",
-      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvlrobe1g9r-eerie-noise-2.mp3",
-      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvlrobe1g9r-eerie-noise-2.mp3",
-      "tags": []
-    },
-    {
       "id": "amvlroe7ztvc",
       "name": "Taco Bell Sound",
       "category": "SFX",

@@ -9,15 +9,6 @@
   ],
   "assets": [
     {
-      "id": "amvlro4w8wei",
-      "name": "Ambience",
-      "category": "SFX",
-      "type": "audio",
-      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvlro4w8wei-ambience.mp3",
-      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvlro4w8wei-ambience.mp3",
-      "tags": []
-    },
-    {
       "id": "amvlro6a1b9i",
       "name": "Awkward Moment",
       "category": "SFX",

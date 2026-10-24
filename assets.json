@@ -7,17 +7,7 @@
     "Premiere Pro",
     "After Effects"
   ],
-  "assets": [
-    {
-      "id": "amvlrof8hilc",
-      "name": "the-alien-annihilation",
-      "category": "SFX",
-      "type": "audio",
-      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvlrof8hilc-the-alien-annihilation.mp3",
-      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvlrof8hilc-the-alien-annihilation.mp3",
-      "tags": []
-    }
-  ],
+  "assets": [],
   "credits": [
     {
       "name": "Your Name",

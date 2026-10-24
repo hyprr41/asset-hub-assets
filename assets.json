@@ -1,0 +1,71 @@
+{
+  "categories": [
+    "SFX",
+    "Music",
+    "Overlays",
+    "Transitions",
+    "Premiere Pro",
+    "After Effects"
+  ],
+  "assets": [
+    {
+      "id": "amvlqopispcb",
+      "name": "vine-boom",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://hyprr41.github.io/asset-hub-assets/assets/sfx/amvlqopispcb-vine-boom.mp3",
+      "preview": "https://hyprr41.github.io/asset-hub-assets/assets/sfx/amvlqopispcb-vine-boom.mp3",
+      "tags": []
+    }
+  ],
+  "credits": [
+    {
+      "name": "Your Name",
+      "role": "Creator",
+      "link": "https://hyprr41.github.io"
+    },
+    {
+      "name": "Artist Name",
+      "role": "Music",
+      "link": "https://example.com"
+    }
+  ],
+  "shop": [
+    {
+      "name": "Starter Pack",
+      "price": "150 Robux",
+      "description": "50 SFX + 10 overlays.",
+      "image": "robux.png",
+      "link": "https://discord.gg/Vf7wVZDHx2"
+    },
+    {
+      "name": "Advanced Pack",
+      "price": "450 Robux",
+      "description": "More SFX, overlays and presets.",
+      "image": "robux.png",
+      "link": "https://discord.gg/Vf7wVZDHx2"
+    },
+    {
+      "name": "Elite Pack",
+      "price": "750 Robux",
+      "description": "The full collection.",
+      "image": "robux.png",
+      "link": "https://discord.gg/Vf7wVZDHx2"
+    },
+    {
+      "divider": "Or pay with Discord Nitro"
+    },
+    {
+      "name": "Discord Nitro",
+      "price": "$10",
+      "description": "Works for any pack.",
+      "image": "nitro.png",
+      "link": "https://discord.gg/Vf7wVZDHx2"
+    }
+  ],
+  "shopProfile": {
+    "name": "Asset Hub",
+    "buyers": 3,
+    "rating": 4.3
+  }
+}

@@ -216,6 +216,50 @@
       "tags": [
         "Misc"
       ]
+    },
+    {
+      "id": "amvls6d2na5z",
+      "name": "Click1",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls6d2na5z-click1.wav",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls6d2na5z-click1.wav",
+      "tags": [
+        "Clicks"
+      ]
+    },
+    {
+      "id": "amvls6e08n3w",
+      "name": "Click2",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls6e08n3w-click2.mp3",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls6e08n3w-click2.mp3",
+      "tags": [
+        "Clicks"
+      ]
+    },
+    {
+      "id": "amvls6euoqkp",
+      "name": "Click3",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls6euoqkp-click3.wav",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls6euoqkp-click3.wav",
+      "tags": [
+        "Clicks"
+      ]
+    },
+    {
+      "id": "amvls6fsygam",
+      "name": "Click4",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls6fsygam-click4.mp3",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls6fsygam-click4.mp3",
+      "tags": [
+        "Clicks"
+      ]
     }
   ],
   "credits": [

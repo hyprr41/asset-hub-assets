@@ -689,6 +689,61 @@
       "tags": [
         "Misc"
       ]
+    },
+    {
+      "id": "amvlsfygamu7",
+      "name": "Riser1",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvlsfygamu7-riser1.wav",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvlsfygamu7-riser1.wav",
+      "tags": [
+        "Riser"
+      ]
+    },
+    {
+      "id": "amvlsfzxcjtw",
+      "name": "Riser2",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvlsfzxcjtw-riser2.mp3",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvlsfzxcjtw-riser2.mp3",
+      "tags": [
+        "Riser"
+      ]
+    },
+    {
+      "id": "amvlsg11dqo5",
+      "name": "Riser3",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvlsg11dqo5-riser3.mp3",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvlsg11dqo5-riser3.mp3",
+      "tags": [
+        "Riser"
+      ]
+    },
+    {
+      "id": "amvlsg2105oj",
+      "name": "Riser4",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvlsg2105oj-riser4.mp3",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvlsg2105oj-riser4.mp3",
+      "tags": [
+        "Riser"
+      ]
+    },
+    {
+      "id": "amvlsg2zhyoi",
+      "name": "Riser5",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvlsg2zhyoi-riser5.mp3",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvlsg2zhyoi-riser5.mp3",
+      "tags": [
+        "Riser"
+      ]
     }
   ],
   "credits": [

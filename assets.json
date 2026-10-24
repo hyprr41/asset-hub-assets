@@ -744,6 +744,72 @@
       "tags": [
         "Riser"
       ]
+    },
+    {
+      "id": "amvlsgzu08r5",
+      "name": "anvil_land",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvlsgzu08r5-anvil-land.mp3",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvlsgzu08r5-anvil-land.mp3",
+      "tags": [
+        "Game"
+      ]
+    },
+    {
+      "id": "amvlsh0pcgny",
+      "name": "Byee Roblox",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvlsh0pcgny-byee-roblox.mp3",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvlsh0pcgny-byee-roblox.mp3",
+      "tags": [
+        "Game"
+      ]
+    },
+    {
+      "id": "amvlsh1oyk35",
+      "name": "Roblox Hi",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvlsh1oyk35-roblox-hi.mp3",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvlsh1oyk35-roblox-hi.mp3",
+      "tags": [
+        "Game"
+      ]
+    },
+    {
+      "id": "amvlsh2s8h5r",
+      "name": "MINECRAFT LEVEL UP SOUND EFFECT",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvlsh2s8h5r-minecraft-level-up-sound-effect.mp3",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvlsh2s8h5r-minecraft-level-up-sound-effect.mp3",
+      "tags": [
+        "Game"
+      ]
+    },
+    {
+      "id": "amvlsh3s0os2",
+      "name": "Minecraft Oof",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvlsh3s0os2-minecraft-oof.mp3",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvlsh3s0os2-minecraft-oof.mp3",
+      "tags": [
+        "Game"
+      ]
+    },
+    {
+      "id": "amvlsh4mvt50",
+      "name": "prowler sound",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvlsh4mvt50-prowler-sound.mp3",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvlsh4mvt50-prowler-sound.mp3",
+      "tags": [
+        "Game"
+      ]
     }
   ],
   "credits": [

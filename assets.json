@@ -304,6 +304,94 @@
       "tags": [
         "Dings"
       ]
+    },
+    {
+      "id": "amvls8i7ngvo",
+      "name": "ahh!",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls8i7ngvo-ahh.mp3",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls8i7ngvo-ahh.mp3",
+      "tags": [
+        "Goofy"
+      ]
+    },
+    {
+      "id": "amvls8j62zdn",
+      "name": "Back In My Day",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls8j62zdn-back-in-my-day.mp3",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls8j62zdn-back-in-my-day.mp3",
+      "tags": [
+        "Goofy"
+      ]
+    },
+    {
+      "id": "amvls8ka45om",
+      "name": "Boing",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls8ka45om-boing.mp3",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls8ka45om-boing.mp3",
+      "tags": [
+        "Goofy"
+      ]
+    },
+    {
+      "id": "amvls8l5u5am",
+      "name": "goofy-ah-laugh",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls8l5u5am-goofy-ah-laugh.mp3",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls8l5u5am-goofy-ah-laugh.mp3",
+      "tags": [
+        "Goofy"
+      ]
+    },
+    {
+      "id": "amvls8m597yu",
+      "name": "Knock",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls8m597yu-knock.mp3",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls8m597yu-knock.mp3",
+      "tags": [
+        "Goofy"
+      ]
+    },
+    {
+      "id": "amvls8mxec7k",
+      "name": "Mr Krabs Walking",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls8mxec7k-mr-krabs-walking.mp3",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls8mxec7k-mr-krabs-walking.mp3",
+      "tags": [
+        "Goofy"
+      ]
+    },
+    {
+      "id": "amvls8nt4lih",
+      "name": "Squidward Walkin",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls8nt4lih-squidward-walkin.mp3",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls8nt4lih-squidward-walkin.mp3",
+      "tags": [
+        "Goofy"
+      ]
+    },
+    {
+      "id": "amvls8opldnx",
+      "name": "Womp Womp",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls8opldnx-womp-womp.mp3",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls8opldnx-womp-womp.mp3",
+      "tags": [
+        "Meme"
+      ]
     }
   ],
   "credits": [

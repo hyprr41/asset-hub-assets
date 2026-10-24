@@ -857,11 +857,5 @@
     "buyers": 3,
     "rating": 4.3
   },
-  "announcements": [
-    {
-      "id": "nmvm1zu1m",
-      "text": "YOOOO",
-      "date": "2026-10-24T07:04:29.914Z"
-    }
-  ]
+  "announcements": []
 }

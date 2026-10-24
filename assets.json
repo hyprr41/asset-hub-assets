@@ -247,5 +247,12 @@
     "name": "Asset Hub",
     "buyers": 3,
     "rating": 4.3
-  }
+  },
+  "announcements": [
+    {
+      "id": "nmvlrx0me",
+      "text": "yoo",
+      "date": "2026-10-24T02:22:22.310Z"
+    }
+  ]
 }

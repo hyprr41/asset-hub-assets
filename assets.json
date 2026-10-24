@@ -7,7 +7,151 @@
     "Premiere Pro",
     "After Effects"
   ],
-  "assets": [],
+  "assets": [
+    {
+      "id": "amvls281rrr4",
+      "name": "ack",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls281rrr4-ack.mp3",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls281rrr4-ack.mp3",
+      "tags": [
+        "Awkward"
+      ]
+    },
+    {
+      "id": "amvls29amh56",
+      "name": "Ambience",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls29amh56-ambience.mp3",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls29amh56-ambience.mp3",
+      "tags": [
+        "Awkward"
+      ]
+    },
+    {
+      "id": "amvls2b05net",
+      "name": "Awkward Moment",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls2b05net-awkward-moment.mp3",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls2b05net-awkward-moment.mp3",
+      "tags": [
+        "Awkward"
+      ]
+    },
+    {
+      "id": "amvls2btbpbe",
+      "name": "Bamboo Hit",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls2btbpbe-bamboo-hit.mp3",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls2btbpbe-bamboo-hit.mp3",
+      "tags": [
+        "Awkward"
+      ]
+    },
+    {
+      "id": "amvls2cra24t",
+      "name": "boi-what-da-hell-boi",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls2cra24t-boi-what-da-hell-boi.mp3",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls2cra24t-boi-what-da-hell-boi.mp3",
+      "tags": [
+        "Awkward"
+      ]
+    },
+    {
+      "id": "amvls2dt373v",
+      "name": "CAVE_SOUND",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls2dt373v-cave-sound.mp3",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls2dt373v-cave-sound.mp3",
+      "tags": [
+        "Meme"
+      ]
+    },
+    {
+      "id": "amvls2eua3zl",
+      "name": "Confused sound effect",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls2eua3zl-confused-sound-effect.mp3",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls2eua3zl-confused-sound-effect.mp3",
+      "tags": [
+        "Awkward"
+      ]
+    },
+    {
+      "id": "amvls2fnypcl",
+      "name": "Eerie Noise 2",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls2fnypcl-eerie-noise-2.mp3",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls2fnypcl-eerie-noise-2.mp3",
+      "tags": [
+        "Awkward"
+      ]
+    },
+    {
+      "id": "amvls2glsnji",
+      "name": "fahhh_KcgAXfs",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls2glsnji-fahhh-kcgaxfs.mp3",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls2glsnji-fahhh-kcgaxfs.mp3",
+      "tags": [
+        "Meme"
+      ]
+    },
+    {
+      "id": "amvls2hl0wqm",
+      "name": "little fast run",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls2hl0wqm-little-fast-run.mp3",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls2hl0wqm-little-fast-run.mp3",
+      "tags": [
+        "Awkward"
+      ]
+    },
+    {
+      "id": "amvls2ix2mat",
+      "name": "Taco Bell Sound",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls2ix2mat-taco-bell-sound.mp3",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls2ix2mat-taco-bell-sound.mp3",
+      "tags": [
+        "Meme"
+      ]
+    },
+    {
+      "id": "amvls2js3qqb",
+      "name": "the-alien-annihilation",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls2js3qqb-the-alien-annihilation.mp3",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls2js3qqb-the-alien-annihilation.mp3",
+      "tags": [
+        "Awkward"
+      ]
+    },
+    {
+      "id": "amvls2kvfovf",
+      "name": "vine-boom",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls2kvfovf-vine-boom.mp3",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls2kvfovf-vine-boom.mp3",
+      "tags": [
+        "Meme"
+      ]
+    }
+  ],
   "credits": [
     {
       "name": "Your Name",

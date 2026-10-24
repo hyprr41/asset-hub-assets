@@ -230,5 +230,11 @@
     "buyers": 3,
     "rating": 4.3
   },
-  "announcements": []
+  "announcements": [
+    {
+      "id": "nmvlrz4us",
+      "text": "Hey everyone today we just hit 15 user so for a gift join the discord for starter pack for FREE! 🎁",
+      "date": "2026-10-24T02:24:01.108Z"
+    }
+  ]
 }

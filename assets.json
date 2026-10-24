@@ -857,5 +857,11 @@
     "buyers": 3,
     "rating": 4.3
   },
-  "announcements": []
+  "announcements": [
+    {
+      "id": "nmvm20f1s",
+      "text": "We hit 1 member join the discord for starter pack! 🎁",
+      "date": "2026-10-24T07:04:57.136Z"
+    }
+  ]
 }

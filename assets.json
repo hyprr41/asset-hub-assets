@@ -9,15 +9,6 @@
   ],
   "assets": [
     {
-      "id": "amvlr30erpqe",
-      "name": "ack",
-      "category": "SFX",
-      "type": "audio",
-      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvlr30erpqe-ack.mp3",
-      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvlr30erpqe-ack.mp3",
-      "tags": []
-    },
-    {
       "id": "amvlro4w8wei",
       "name": "Ambience",
       "category": "SFX",

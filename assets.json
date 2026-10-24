@@ -260,6 +260,50 @@
       "tags": [
         "Clicks"
       ]
+    },
+    {
+      "id": "amvls6tjgua3",
+      "name": "Ding1",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls6tjgua3-ding1.mp3",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls6tjgua3-ding1.mp3",
+      "tags": [
+        "Dings"
+      ]
+    },
+    {
+      "id": "amvls6ultazr",
+      "name": "Ding2",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls6ultazr-ding2.mp3",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls6ultazr-ding2.mp3",
+      "tags": [
+        "Dings"
+      ]
+    },
+    {
+      "id": "amvls6voausc",
+      "name": "Ding3",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls6voausc-ding3.wav",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls6voausc-ding3.wav",
+      "tags": [
+        "Dings"
+      ]
+    },
+    {
+      "id": "amvls6wk3r73",
+      "name": "Ding4",
+      "category": "SFX",
+      "type": "audio",
+      "url": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls6wk3r73-ding4.mp3",
+      "preview": "https://raw.githubusercontent.com/hyprr41/asset-hub-assets/main/assets/sfx/amvls6wk3r73-ding4.mp3",
+      "tags": [
+        "Dings"
+      ]
     }
   ],
   "credits": [
